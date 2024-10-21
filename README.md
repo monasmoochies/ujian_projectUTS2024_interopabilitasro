@@ -34,5 +34,15 @@
 ## judul
 ![alt text](judul.png)
 
+## ngrok 
+![alt text](image.png)
+
+![alt text](<Screenshot 2024-10-21 124721.png>)
+
+![alt text](<Screenshot 2024-10-21 124707.png>)
+
+![alt text](image-2.png)
+
+
 
 
